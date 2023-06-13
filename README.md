@@ -1,4 +1,4 @@
-Hi, I’m @dluecking
+#### Hi, I’m @dluecking
 I’m a PhD student at the MPI for Marine Microbiology in Bremen, GER, studying archaeal virology. I work on...
 - viromics
 - metagenomics
@@ -6,7 +6,7 @@ I’m a PhD student at the MPI for Marine Microbiology in Bremen, GER, studying 
 - viral prediction
 - membrane/extracellular vesicles
 - many other things :-)
-
+--- 
 
 How to reach me ...
   - :desktop_computer: researchgate: https://www.researchgate.net/profile/Dominik-Luecking
